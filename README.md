@@ -1,1 +1,1 @@
-# fund.sc
+# IcoLab Fund ethereum Smart Contracts
